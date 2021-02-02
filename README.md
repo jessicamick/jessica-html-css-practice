@@ -1,4 +1,4 @@
-# Jessica's HTML CSS practice asignment
+# Jessica's HTML CSS practice assignment
 
 By Jessica
 
